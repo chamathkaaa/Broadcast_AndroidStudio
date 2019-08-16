@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Broadcast_AndroidStudio</string>
+    <string name="btnBroadcast">START BROADCAST</string>
+</resources>
